@@ -18,3 +18,5 @@ Former name:
 ## PGP keys
 
 PGP fingerprint: `2B429BB9098D7B218ECBD4DAF8FAE5B1001EFE63`
+
+You can download files [here](https://whiteboard-ui8.pages.dev/about/assets/White%20Poplar_0x001EFE63_public.asc).
