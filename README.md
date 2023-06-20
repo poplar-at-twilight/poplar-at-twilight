@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me
 
-<!--
-**poplar-at-twilight/poplar-at-twilight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm `Poplar at twilight` (zh-Hans: `暮光的白杨`), you can call me `白杨` for short (en: White Poplar). I'm a translator translating FOSS news
 
-Here are some ideas to get you started:
+Former name:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `Hanjingxue Boling` (`Hanjingxue` or `Boling H.`，zh-Hans: `寒晶雪•铂灵`)
+
+## personal documentation site
+
+- [白杨的文档站](https://whiteboard-ui8.pages.dev)
+
+## other links
+
+- [Aui - openSUSE 中文论坛](https://forum.suse.org.cn/u/aui/summary)
+- [White-poplar - openSUSE Wiki](https://zh.opensuse.org/User:White-poplar)
+
+## PGP keys
+
+PGP fingerprint: `2B429BB9098D7B218ECBD4DAF8FAE5B1001EFE63`
