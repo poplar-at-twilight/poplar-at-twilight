@@ -1,6 +1,6 @@
 # About me
 
-I'm `Poplar at twilight` (zh-Hans: `暮光的白杨`), you can call me `白杨` for short (en: White Poplar). I'm a translator translating FOSS news
+I'm `Poplar at twilight` (zh-Hans: `暮光的白杨`), you can call me `白杨` for short (en: `White Poplar` or `Poplar`). I'm a translator translating FOSS news
 
 Former name:
 
