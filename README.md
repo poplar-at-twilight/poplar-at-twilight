@@ -8,6 +8,6 @@ I'm `Poplar at twilight` (zh-Hans: `暮光的白杨`), you can call me `白杨` 
 
 ## PGP keys
 
-PGP fingerprint: `2B429BB9098D7B218ECBD4DAF8FAE5B1001EFE63`
+PGP fingerprint: `2B42 9BB9 098D 7B21 8ECB D4DA F8FA E5B1 001E FE63`
 
 You can download files [here](https://whiteboard-ui8.pages.dev/about/assets/White%20Poplar_0x001EFE63_public.asc).
